@@ -31,6 +31,17 @@
     "copy-files": "cp -a ./src/. template/src && cp -a ./public/. template/public && cp .eslintrc.js template/",
     "prepublishOnly": "yarn remove-files && yarn copy-files"
   },
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
   "eslintConfig": {
     "extends": [
       "react-app",
