@@ -1,6 +1,7 @@
 {
-  "name": "cra-template-cncubukcu-basic",
-  "version": "0.1.1",
+  "name": "cra-template-cncubukcu-template",
+  "version": "0.1.0",
+  "public": true,
   "author": "Can Çubukcu <c4ncubukcu@gmail.com>",
   "dependencies": {
     "@testing-library/jest-dom": "5.11.6",
